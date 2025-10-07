@@ -1,2 +1,3 @@
-# teste01
-primeiro repositorio versionado
+# teste 01
+Primeiro repositorio versionado
+Repositório criado para aprender como funciona o Git e GitHub
